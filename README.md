@@ -1,5 +1,5 @@
 
-👋 , I’m Feranmi Nureni.
+👋 I’m Feranmi Nureni.
 
 👀 I’m interested in Data science/analytics
 
