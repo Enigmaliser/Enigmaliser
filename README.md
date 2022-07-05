@@ -3,7 +3,7 @@
 
 👀 I’m interested in Data science/analytics
 
-🌱 I use Python currently
+🌱 I use Python and C currently
 
 💞️ I’m looking to collaborate or work on interesting and challenging projects
 
